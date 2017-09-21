@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="comicdownloader:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/comicdownloader_war</output-path>
+    <root id="archive" name="comicdownloader_war.war">
+      <element id="artifact" artifact-name="comicdownloader:war exploded" />
+    </root>
+  </artifact>
+</component>
